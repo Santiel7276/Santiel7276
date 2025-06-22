@@ -1,4 +1,5 @@
-## Hi there 👋
+#👋 Hello! Welcome to my Github profile.
+## My name is Igor and my nickname is Santiel7276
 
 <!--
 **Santiel7276/Santiel7276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
